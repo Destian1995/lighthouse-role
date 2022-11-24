@@ -1,5 +1,5 @@
 ---
 # vars file for lighthouse-role
-required_packages:
-  - unzip
-nginx_basedir: /usr/share/nginx
+lighthouse_vcs: https://github.com/VKCOM/lighthouse.git
+lighthouse_dir: /var/lib/lighthouse
+lighthouse_access_log_name: lighthouse_access
