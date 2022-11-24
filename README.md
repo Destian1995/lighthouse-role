@@ -2,7 +2,7 @@ Role Name
 =========
 
 Роль для установки lighthouse.
-- Устновка Git
+- Установка Git
 - Скачивание lighthouse из репозитория
 - Конфигурирование lighthouse
 
@@ -33,7 +33,7 @@ lighthouse_access_log_name: lighthouse_access
 Dependencies
 ------------
 
-Требуется роль [clickhouse-role](https://github.com/danilabar/clickhouse-role)
+Требуется роль [clickhouse-role](https://github.com/Destian1995/clickhouse-role)
 
 Example Playbook
 ----------------
